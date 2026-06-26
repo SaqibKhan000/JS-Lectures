@@ -2,5 +2,5 @@
 
 
 
-  result = +"Infinity" > 1
-console.log(result)
+let x = NaN
+result = x !== x;  // true
