@@ -2,5 +2,8 @@
 
 
 
-let x = NaN
-result = x !== x;  // true
+const doThis = function doThat(){
+
+};
+
+const result = doThis.name;
